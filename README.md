@@ -98,7 +98,7 @@ Built an interactive dashboard to visualize customer insights and business perfo
 -------------------------------------------------------------------------------------------------------
 # 📷 Dashboard Preview
 
-![Salary Dashboard](screenshots/customer_behavior.png)
+![Customer_Behavior Dashboard](screenshots/customer_behavior.png)
 
 --------------------------------------------------------------------------------------------------------
 
