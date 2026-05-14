@@ -98,7 +98,7 @@ Built an interactive dashboard to visualize customer insights and business perfo
 -------------------------------------------------------------------------------------------------------
 # 📷 Dashboard Preview
 
-Add dashboard screenshots inside the `screenshots` folder and display them here.
+![Salary Dashboard](screenshots/customer_behavior.png)
 
 --------------------------------------------------------------------------------------------------------
 
